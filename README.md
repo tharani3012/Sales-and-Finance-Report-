@@ -3,6 +3,8 @@ Sales Report:
 ----------------------------------------------------------------------------------------------
 Project objective
            1. Create a Customer Performance Report
+----------------------------------------------------------------------------------------------           
+           
            2.  To analyze AtliQ Hardware’s customer data and provide insights into customer 
                Performance and profitability.
 
